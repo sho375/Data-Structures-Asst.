@@ -3,7 +3,7 @@
 int main()
 {
    int i,n;
-   float SD,sum=0,term1,mean,term2,variance=0.0,a[100];
+   float SD,sum=0,term1,mean,term2,variance,a[100];
    printf("Enter value of n : ");
    scanf("%d",&n);
    printf("\nEnter numbers : ");
